@@ -1,0 +1,62 @@
+# Dossiers générés par Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Fichiers de configuration spécifiques à l’utilisateur
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Fichiers Unity spécifiques à la machine
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Builds finaux et packages
+*.apk
+*.aab
+*.unitypackage
+*.ipa
+*.app
+*.obb
+
+# Fichiers générés par les IDE (Visual Studio, Rider, VSCode)
+.vscode/
+.idea/
+*.code-workspace
+.vs/
+
+# Dossiers de cache pour les plateformes (Android, iOS, etc.)
+.gradle/
+ExportedObj/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+*.swp
+*.lock
+
+# Log Unity (parfois utiles, mais généralement trop volumineux pour Git)
+sysinfo.txt
+
+# Crashlytics et autres fichiers générés
+crashlytics-build.properties
+
+# Ignore Unity Samples
+Unity-3D/Assets/Package/Samples/
